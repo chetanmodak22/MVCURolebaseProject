@@ -1,0 +1,10 @@
+D:\MVC\MVCApplication\IEntity\bin\Debug\IEntity.dll
+D:\MVC\MVCApplication\IEntity\bin\Debug\IEntity.pdb
+D:\MVC\MVCApplication\IEntity\obj\Debug\IEntity.dll
+D:\MVC\MVCApplication\IEntity\obj\Debug\IEntity.pdb
+D:\MVC\MVCApplication\IEntity\obj\Debug\IEntity.csprojAssemblyReference.cache
+D:\Clover\MVC\MVCApplication\IEntity\bin\Debug\IEntity.dll
+D:\Clover\MVC\MVCApplication\IEntity\bin\Debug\IEntity.pdb
+D:\Clover\MVC\MVCApplication\IEntity\obj\Debug\IEntity.csprojAssemblyReference.cache
+D:\Clover\MVC\MVCApplication\IEntity\obj\Debug\IEntity.dll
+D:\Clover\MVC\MVCApplication\IEntity\obj\Debug\IEntity.pdb

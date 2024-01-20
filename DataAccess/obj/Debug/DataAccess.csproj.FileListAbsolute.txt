@@ -1,0 +1,16 @@
+D:\MVC\MVCApplication\DataAccess\bin\Debug\DataAccess.dll
+D:\MVC\MVCApplication\DataAccess\bin\Debug\DataAccess.pdb
+D:\MVC\MVCApplication\DataAccess\bin\Debug\IEntity.dll
+D:\MVC\MVCApplication\DataAccess\bin\Debug\IEntity.pdb
+D:\MVC\MVCApplication\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\MVC\MVCApplication\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\MVC\MVCApplication\DataAccess\obj\Debug\DataAccess.dll
+D:\MVC\MVCApplication\DataAccess\obj\Debug\DataAccess.pdb
+D:\Clover\MVC\MVCApplication\DataAccess\bin\Debug\DataAccess.dll
+D:\Clover\MVC\MVCApplication\DataAccess\bin\Debug\DataAccess.pdb
+D:\Clover\MVC\MVCApplication\DataAccess\bin\Debug\IEntity.dll
+D:\Clover\MVC\MVCApplication\DataAccess\bin\Debug\IEntity.pdb
+D:\Clover\MVC\MVCApplication\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Clover\MVC\MVCApplication\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Clover\MVC\MVCApplication\DataAccess\obj\Debug\DataAccess.dll
+D:\Clover\MVC\MVCApplication\DataAccess\obj\Debug\DataAccess.pdb
